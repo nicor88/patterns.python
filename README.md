@@ -3,3 +3,4 @@ Design patterns in Python
 
 ## Patterns
 *  Singleton
+*  Decorators
